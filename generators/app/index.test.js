@@ -3,7 +3,7 @@ var path = require('path');
 var assert = require('yeoman-assert');
 var helpers = require('yeoman-test');
 
-describe('ptz-app:app', function () {
+describe('ptz-domain:app', function () {
     describe('default', function () {
         before(function (done) {
             helpers.run(path.join(__dirname, '../app'))
@@ -23,11 +23,9 @@ describe('ptz-app:app', function () {
                 '.babelrc',
                 '.gitignore',
                 '.travis.yml',
-
+                
                 'src/index.ts',
                 'src/errors.ts',
-                'src/typings/index.d.ts',
-
                 'typings/index.d.ts'
             ]);
         });

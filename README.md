@@ -6,7 +6,7 @@
 [![bitHound Score](https://www.bithound.io/github/gotwarlost/istanbul/badges/score.svg)](https://www.bithound.io/github/polutz/generator-ptz-app)
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 
-Yeoman generator to create polutz domain modules.
+Yeoman generator to create polutz app modules.
 
 ## Install
 You can remove 'yo typings' if you already have them installed
