@@ -14,7 +14,6 @@ describe('ptz-domain:app', function () {
 
         it('creates files', function () {
             assert.file([
-                'gulpfile.js',
                 'LICENSE',
                 'package.json',
                 'README.md',
