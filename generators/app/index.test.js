@@ -18,13 +18,10 @@ describe('ptz-domain:app', function () {
                 'package.json',
                 'README.md',
                 'tsconfig.json',
-                'typings.json',
                 '.gitignore',
                 '.travis.yml',
                 
-                'src/index.ts',
-                'src/errors.ts',
-                'typings/index.d.ts'
+                'src/index.ts'
             ]);
         });
 
